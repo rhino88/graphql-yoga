@@ -1,5 +1,14 @@
 # graphql-yoga
 
+## 5.0.1
+
+### Patch Changes
+
+- [#3120](https://github.com/dotansimha/graphql-yoga/pull/3120)
+  [`3fea19f2`](https://github.com/dotansimha/graphql-yoga/commit/3fea19f2a01c85b7d837163d763fae107e8f5a53)
+  Thanks [@antonio-iodice](https://github.com/antonio-iodice)! - Do not return 404 when using query
+  params or trailing slashes
+
 ## 5.0.0
 
 ### Major Changes
